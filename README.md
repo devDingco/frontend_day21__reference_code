@@ -1,7 +1,7 @@
-# frontend_day22__reference_code
+# frontend_day21__reference_code
 
 1. 공통
-    - [ ]  완성된 day20 폴더를 활용하여 day22을 완성해 주세요.(day21 없음)
+    - [ ]  완성된 day19 폴더를 활용하여 day21을 완성해 주세요.(day20 없음)
     - [ ]  GRAPHQL 통신이 가능하도록 layout.tsx 파일에 과제자료(apollo-setting.tsx)를 설치해 주세요.
         - [ ]  설치경로: src/commons/settings/apollo-setting.tsx
         - [ ]  적용방법: src/app/layout.tsx 파일을 열어, 수업에서 배운대로 적용해 주세요.
